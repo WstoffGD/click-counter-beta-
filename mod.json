@@ -2,9 +2,8 @@
   "geode": "5.0.0",
   "gd": { "win": "2.2081", "android": "2.2081" },
   "version": "v0.1.0",
-  "id": "WstoffGD.click-counter",
+  "id": "wstoffgd.click-counter",
   "name": "Click Counter",
   "developer": "WstoffGD",
   "description": "Contador de clicks con rectangulo translucido que brilla al clickear."
-}
 }
